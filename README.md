@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Ward Alert Dispatcher (Part C – Web Application)
 
 A complete MERN stack (MongoDB, Express.js, React, Node.js) healthcare SaaS platform for submitting, tracking, assigning, routing, and analyzing hospital ward alert reports across clinical departments.
@@ -57,3 +58,6 @@ All seeded accounts use password `Hospital@123`:
 11. **Notifications Page** (`/notifications`)
 12. **User Profile Page** (`/profile`)
 13. **Settings Page** (`/settings`)
+=======
+# 004_16_P3
+>>>>>>> 24f289546c5d5497e1bda1a75e71b53ad0f70b07
